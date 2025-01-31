@@ -22,8 +22,8 @@ Before diving into the projects you should take a look at the lib section and in
 
 ## 📁 Repo Directory 📁
 
-- <a href=>Arduino library Files</a>
-- <a href=>TTGO T5 Projects</a>
+- <a href=https://github.com/ATOMNFT/TTGO-T5-E-Paper/tree/main/Libs>Arduino library Files</a>
+- <a href=https://github.com/ATOMNFT/TTGO-T5-E-Paper/tree/main/Projects>TTGO T5 Projects</a>
 
 <br>
 
