@@ -16,7 +16,7 @@ All projects will be located here for easy access.
 <summary>Face-Test</summary>
 <br />
 
-- <a href=https://github.com/ATOMNFT/ESP32-TTGO-T-Display-Hub/tree/main/Projects/crypto-price>ASCI Face-Test</a>
+- <a href=https://github.com/ATOMNFT/TTGO-T5-E-Paper/tree/main/Projects/Face-Test>ASCI Face-Test</a>
 
 </details>
 
