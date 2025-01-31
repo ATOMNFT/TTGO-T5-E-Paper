@@ -18,12 +18,12 @@ Expect to uncover a wealth of insights tailor-made for the captivating 2.13-inch
 
 ---
 
-Before diving into the projects you should take a look at the Arduino Enviroment Files section and install the required libs and user_setup files.
+Before diving into the projects you should take a look at the lib section and install the required libs.
 
 ## 📁 Repo Directory 📁
 
-- <a href=>Arduino Enviroment Files</a>
-- <a href=>TTGO T-Display Projects</a>
+- <a href=>Arduino library Files</a>
+- <a href=>TTGO T5 Projects</a>
 
 <br>
 
