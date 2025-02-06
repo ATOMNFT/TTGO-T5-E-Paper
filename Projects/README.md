@@ -1,4 +1,4 @@
-![Header](images/.png)
+![Header](Images/projects-header.png)
 <br>
 
 <div align="center">
