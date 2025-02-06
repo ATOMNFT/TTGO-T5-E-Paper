@@ -23,7 +23,7 @@ All projects will be located here for easy access.
 ---
 
 <details>
-<summary>🤑 Crypto Price Tickers</summary>
+<summary>Place-holder</summary>
 <br />
 
 - <a href=#>Place-holder</a>
