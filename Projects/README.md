@@ -26,7 +26,7 @@ All projects will be located here for easy access.
 <summary>🤑 Crypto Price Tickers</summary>
 <br />
 
-- <a href=#>Crypto-Price</a>
+- <a href=#>Place-holder</a>
 
 </details>
 
