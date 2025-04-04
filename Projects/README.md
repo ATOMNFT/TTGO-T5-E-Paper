@@ -23,10 +23,10 @@ All projects will be located here for easy access.
 ---
 
 <details>
-<summary>Place-holder</summary>
+<summary>Monitoring/Stats</summary>
 <br />
 
-- <a href=#>Place-holder</a>
+- <a href=#>Server-Stats</a>
 
 </details>
 
