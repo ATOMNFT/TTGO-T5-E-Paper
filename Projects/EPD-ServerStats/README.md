@@ -5,7 +5,7 @@
   
   ## Server-Stats
   
-  ![EPD](Images/EPD-sample.jpg)
+  ![EPD](https://github.com/ATOMNFT/TTGO-T5-E-Paper/blob/main/Images/epd_sample.jpg)
 
 </div>
 
