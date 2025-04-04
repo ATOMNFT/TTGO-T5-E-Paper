@@ -26,7 +26,7 @@ All projects will be located here for easy access.
 <summary>Monitoring/Stats</summary>
 <br />
 
-- <a href=#>Server-Stats</a>
+- <a href=https://github.com/ATOMNFT/TTGO-T5-E-Paper/tree/main/Projects/EPD-ServerStats>Server-Stats</a>
 
 </details>
 
