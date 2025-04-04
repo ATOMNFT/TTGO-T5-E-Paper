@@ -4,6 +4,8 @@
 <div align="center">
   
   ## Server-Stats
+  
+  ![EPD](Images/EPD-sample.jpg)
 
 </div>
 
